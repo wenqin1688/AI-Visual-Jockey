@@ -1,0 +1,7 @@
+{
+  "name": "Wenvis AI Audio Visualizer",
+  "description": "An aesthetic, real-time particle audio visualizer that reacts to music uploads or microphone input.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
